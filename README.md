@@ -1,2 +1,1 @@
-# c-39-working-project-
-fixing the bug 
+# C39-Debug-Part-1
